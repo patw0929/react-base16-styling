@@ -9,7 +9,7 @@
     "url": "https://github.com/alexkuz/react-base16-styling/issues"
   },
   "dependencies": {
-    "base16": "Dean177/base16-js",
+    "base16": "Dean177/base16-js#6c5e5f3b63990b580ffdc036bc672f8987d5b93d",
     "color-space": "^1.14.3",
     "lodash.curry": "^4.0.1",
     "lodash.flow": "^3.3.0",
